@@ -104,19 +104,26 @@ existe.
 
 ---
 
-## `//` REGISTRO DE MISSÕES
+## `//` OBRAS
 
-| | Missão | O que ela demonstra |
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./obras.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./obras-light.svg?v=1">
+  <img src="./obras.svg?v=1" alt="Obras: Portfólio Smart LABS, Bruno, Danila e Tiago" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+### O que dá para abrir agora
+
+| | Repositório | O que demonstra |
 |:---:|:---|:---|
-| `01` | **Landing com relatório diário**<br/><sub>consultoria · Reino Unido</sub> | Três funções serverless, OAuth com a API do Google, e-mail + WhatsApp ao lead, e um resumo agendado que chega no WhatsApp do dono às 23h |
-| `02` | **Site com motor de diagnóstico**<br/><sub>paisagismo · Reino Unido</sub> | Sistema especialista determinístico: sete perguntas com peso, nota de 0 a 100 e laudo específico. O lead chega qualificado e a ligação muda de natureza |
-| `03` | **Link na bio com analytics próprio**<br/><sub>saúde estética</sub> | Postgres com migrações versionadas, rota de relatório autenticada, proteção contra *tabnabbing* e limite de taxa por rota |
-| `04` | [**DevBurger**](https://github.com/IsraelDev7/Dev_buger_final) | E-commerce full-stack: JWT + bcrypt, validação com Yup, upload, Stripe do carrinho ao webhook, painel administrativo |
-| `05` | [**SmartFit AI Platform**](https://github.com/IsraelDev7/Smart-fitAI) | Monorepo com mobile e web dividindo o mesmo contrato de tipos, Supabase com RLS, cobrança por webhook e CI |
-| `06` | **Portfólio Smart LABS** | 82 commits com o raciocínio de cada decisão escrito dentro. O método é o produto |
-
-> **Os projetos de cliente são privados.** Código de terceiro não é meu para
-> publicar — posso apresentar qualquer um deles em detalhe numa conversa.
+| `05` | [**DevBurger**](https://github.com/IsraelDev7/Dev_buger_final) · <sub>MAI 2026</sub> | E-commerce full-stack: JWT + bcrypt, validação com Yup, upload, Stripe do carrinho ao webhook, painel administrativo |
+| `06` | [**SmartFit AI Platform**](https://github.com/IsraelDev7/Smart-fitAI) · <sub>MAR 2026</sub> | Monorepo com mobile e web dividindo o mesmo contrato de tipos, Supabase com RLS, cobrança por webhook e CI |
 
 <br/>
 
@@ -204,7 +211,7 @@ recusa atender em vez de abrir.
 
 ## `//` CANAL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D14D29)](https://www.linkedin.com/in/israel-passos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D14D29)](https://www.linkedin.com/in/israel-passos-281374336/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F5F0E8)](https://github.com/IsraelDev7)
 
 <br/>
