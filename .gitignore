@@ -1,0 +1,8 @@
+# As fontes usadas para gerar os SVG. Redistribuiveis, mas nao ha
+# motivo para 180 KB de binario num repositorio de perfil — o
+# assets/README.md diz de onde baixar.
+*.ttf
+*.otf
+
+# previa local dos SVG
+previa.html
