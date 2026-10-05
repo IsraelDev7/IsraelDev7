@@ -124,6 +124,7 @@ existe.
 |:---:|:---|:---|
 | `05` | [**DevBurger**](https://github.com/IsraelDev7/Dev_buger_final) · <sub>MAI 2026</sub> | E-commerce full-stack: JWT + bcrypt, validação com Yup, upload, Stripe do carrinho ao webhook, painel administrativo |
 | `06` | [**SmartFit AI Platform**](https://github.com/IsraelDev7/Smart-fitAI) · <sub>MAR 2026</sub> | Monorepo com mobile e web dividindo o mesmo contrato de tipos, Supabase com RLS, cobrança por webhook e CI |
+| `07` | [**Arquitetura de Agentes de IA**](https://github.com/IsraelDev7/ai-agent-architecture) · <sub>OUT 2026</sub> | Agente autônomo em operação contínua desde fev/2026: memória em duas camadas com orçamento, procedimento versionado, verificação contra sucesso presumido e fronteiras de confiança e custo |
 
 <br/>
 
