@@ -17,7 +17,7 @@
 A maior parte do mercado entrega uma peça bonita e estática.
 Eu entrego a peça bonita **e a máquina que a atende**.
 
-<sub>Smart LABS · Goiânia, Brasil · atendendo Brasil e Reino Unido</sub>
+<sub>Smart LABS · Brasil / Reino Unido · trabalho remoto</sub>
 
 </div>
 
